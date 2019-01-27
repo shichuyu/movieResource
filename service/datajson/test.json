@@ -1,0 +1,21 @@
+{
+	"RECORDS":[
+		{
+			"ID":"1",
+			"username": "天宇无敌",
+			"password": "cjtywd",
+			"Height": 180,
+			"Weight": 75,
+			"sex": 1,
+			"isEighteen": true
+		},{
+			"ID":"2",
+			"username": "无敌天宇",
+			"password": "cjsytywd",
+			"Height": 190,
+			"Weight": 75,
+			"sex": 1,
+			"isEighteen": false
+		}
+	]
+}

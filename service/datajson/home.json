@@ -1,0 +1,36 @@
+[
+  {
+    "ID": "001",
+    "navCategory": [
+      {
+        "navId": "001",
+        "navTitle": "最新"
+      },
+      {
+        "navId": "002",
+        "navTitle": "电影"
+      },
+      {
+        "navId": "003",
+        "navTitle": "电视剧"
+      },
+      {
+        "navId": "004",
+        "navTitle": "综艺"
+      },
+      {
+        "navId": "005",
+        "navTitle": "动漫"
+      },
+      {
+        "navId": "006",
+        "navTitle": "其他"
+      }
+    ],
+    "slides": [
+      "http://images.baixingliangfan.cn/advertesPicture/20180407/20180407175040_1780.jpg",
+      "http://images.baixingliangfan.cn/advertesPicture/20180407/20180407175111_9509.jpg",
+      "http://images.baixingliangfan.cn/advertesPicture/20180407/20180407175142_6947.jpg"
+    ]
+  }
+]
